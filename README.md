@@ -37,7 +37,7 @@ An interactive Streamlit dashboard allows users to visualize insights and intera
 ⸻
 
 📊 Dataset
-	•	Source: Cinema [Ticket Sales Dataset – Kaggle](https://www.kaggle.com/datasets/arashnic/cinema-ticket )
+	•	Source: Cinema: (https://www.kaggle.com/datasets/arashnic/cinema-ticket )
 	•	Before Cleaning: 142,524 rows, 16 features
 	•	After Cleaning: 53,794 rows, 16 features
 	•	Key Features: total_sales, tickets_sold, ticket_price, capacity, occu_perc, show_time, is_weekend
